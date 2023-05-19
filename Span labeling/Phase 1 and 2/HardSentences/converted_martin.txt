@@ -1,0 +1,186 @@
+#martin1
+1	the	O
+2	hotel	O
+3	we	O
+4	visited	O
+5	was	B-Negative
+6	n't	I-Negative
+7	very	I-Negative
+8	clean	O
+
+#martin2
+1	this	O
+2	holiday	O
+3	was	B-Positive
+4	great	I-Positive
+5	,	O
+6	the	O
+7	night	O
+8	life	B-Positive
+9	is	I-Positive
+10	amazing	I-Positive
+11	and	I-Positive
+12	close	I-Positive
+13	by	O
+
+#martin3
+1	the	O
+2	restrooms	O
+3	are	O
+4	very	B-Negative
+5	dirty	I-Negative
+6	i	O
+7	will	B-Negative
+8	not	I-Negative
+9	come	I-Negative
+10	back	I-Negative
+11	!	I-Negative
+
+#martin4
+1	the	O
+2	price	O
+3	was	O
+4	very	B-Negative
+5	steep	I-Negative
+6	,	O
+7	but	O
+8	the	O
+9	restaurants	B-Positive
+10	made	I-Positive
+11	up	I-Positive
+12	for	I-Positive
+13	it	I-Positive
+14	.	O
+
+#martin5
+1	airport	O
+2	was	O
+3	way	B-Negative
+4	to	I-Negative
+5	close	I-Negative
+6	it	I-Negative
+7	made	I-Negative
+8	a	I-Negative
+9	lot	I-Negative
+10	of	I-Negative
+11	noise	I-Negative
+12	.	O
+
+#martin6
+1	when	O
+2	we	O
+3	visited	O
+4	half	O
+5	the	O
+6	restaurants	B-Negative
+7	were	I-Negative
+8	closed	I-Negative
+
+#martin7
+1	this	O
+2	place	O
+3	is	B-Negative
+4	not	I-Negative
+5	the	I-Negative
+6	beach	I-Negative
+7	heaven	I-Negative
+8	that	I-Negative
+9	the	I-Negative
+10	say	I-Negative
+11	it	I-Negative
+12	is	I-Negative
+13	.	O
+
+#martin8
+1	i	O
+2	did	B-Negative
+3	not	I-Negative
+4	have	I-Negative
+5	a	I-Negative
+6	good	I-Negative
+7	experience	I-Negative
+8	at	I-Negative
+9	all	I-Negative
+10	!	I-Negative
+
+#martin9
+1	wow	B-Positive
+2	!	I-Positive
+3	what	I-Positive
+4	a	I-Positive
+5	time	I-Positive
+6	.	O
+7	everything	B-Positive
+8	was	I-Positive
+9	wonderful	I-Positive
+
+#martin10
+1	we	O
+2	were	O
+3	well	B-Positive
+4	received	I-Positive
+5	at	I-Positive
+6	the	I-Positive
+7	reception	I-Positive
+8	.	O
+
+#martin11
+1	there	O
+2	were	O
+3	long	B-Positive
+4	tables	I-Positive
+5	filled	I-Positive
+6	with	I-Positive
+7	food	I-Positive
+8	,	I-Positive
+9	everything	I-Positive
+10	you	I-Positive
+11	could	I-Positive
+12	imagine	I-Positive
+13	at	I-Positive
+14	the	I-Positive
+15	buffet	I-Positive
+16	.	O
+
+#martin12
+1	all	O
+2	in	O
+3	all	O
+4	i	O
+5	can	B-Negative
+6	not	I-Negative
+7	recommend	I-Negative
+8	coming	I-Negative
+9	back	I-Negative
+
+#martin13
+1	the	O
+2	stay	O
+3	felt	B-Negative
+4	very	I-Negative
+5	long	I-Negative
+6	since	I-Negative
+7	the	I-Negative
+8	hotel	I-Negative
+9	was	I-Negative
+10	so	I-Negative
+11	noisy	I-Negative
+
+#martin14
+1	i	O
+2	am	O
+3	so	B-Positive
+4	going	I-Positive
+5	back	I-Positive
+6	!	I-Positive
+
+#martin15
+1	the	O
+2	lacking	B-Negative
+3	of	I-Negative
+4	a	I-Negative
+5	pool	I-Negative
+6	was	I-Negative
+7	pretty	I-Negative
+8	annoying	I-Negative
+

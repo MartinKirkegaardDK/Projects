@@ -1,0 +1,20 @@
+GROUP 3
+
+flmi@itu.dk | marki@itu.dk | mksi@itu.dk | magsv@itu.dk.
+
+The choice of the project was to pursue the sentiment sequence labelling assignment.
+
+The baseline for the project is a simple one hot encoding as our feature extraction.
+ 
+The actual classifier is a RNN model and it is initialised with an input layer consisting of n-amount of neurons,
+where n = the vocabulary size. 
+
+In addition, the model has a single hidden layer with 25 neurons using the activation function = "tanH" and an output layer with y-amount of neurons, where y = the amount of labels, having as the activation function = "Softmax".
+
+On the other hand, the loss function was chosen to be - categorical crossentropy - and the optimiser - Adam (Adaptive Stochastic Gradient Descent).
+
+By having this baseline, a rich number of opportunities for improvement arise, such as : 
+
+- choosing a better model, could be LSTM or BERT, 
+
+- trying different embedding methods like TF-IDF or even bringing in some extra linguistic knowledge.

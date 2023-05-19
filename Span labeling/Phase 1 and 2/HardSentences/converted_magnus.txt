@@ -1,0 +1,231 @@
+#magnus1
+1	i	O
+2	have	B-Negative
+3	not	I-Negative
+4	had	O
+5	a	O
+6	trip	O
+7	where	O
+8	i	O
+9	have	B-Positive
+10	been	I-Positive
+11	on	O
+12	hotel	O
+13	.	O
+
+#magnus2
+1	there	O
+2	are	O
+3	some	B-Positive
+4	rooms	I-Positive
+5	from	I-Positive
+6	this	I-Positive
+7	hotel	I-Positive
+8	that	O
+9	are	B-Negative
+10	no	I-Negative
+11	good	O
+12	.	O
+
+#magnus3
+1	the	O
+2	restaurants	B-Positive
+3	of	O
+4	dana	O
+5	are	O
+6	located	B-Positive
+7	in	I-Positive
+8	the	I-Positive
+9	front	I-Positive
+10	or	I-Positive
+11	back	I-Positive
+12	of	O
+13	the	O
+14	building	O
+15	.	O
+
+#magnus4
+1	there	O
+2	was	O
+3	a	B-Positive
+4	station	I-Positive
+5	that	I-Positive
+6	we	O
+7	could	B-Positive
+8	find	I-Positive
+9	in	O
+10	the	B-Positive
+11	resort	I-Positive
+12	area	O
+13	.	O
+
+#magnus5
+1	this	O
+2	hotel	O
+3	,	O
+4	be	B-Positive
+5	it	O
+6	a	O
+7	simple	B-Positive
+8	one	O
+9	is	O
+10	quite	B-Positive
+11	good	I-Positive
+12	given	I-Positive
+13	its	O
+14	price	O
+15	.	O
+
+#magnus6
+1	this	B-Positive
+2	is	I-Positive
+3	the	I-Positive
+4	holiday	I-Positive
+5	place	O
+6	to	O
+7	walk	O
+8	in	O
+9	but	B-Negative
+10	not	I-Negative
+11	in	O
+12	the	O
+13	pool	O
+14	area	O
+15	.	O
+
+#magnus7
+1	it	B-Positive
+2	is	I-Positive
+3	great	I-Positive
+4	with	O
+5	nice	B-Positive
+6	and	O
+7	big	B-Positive
+8	rooms	O
+9	,	O
+10	would	B-Positive
+11	definitely	I-Positive
+12	go	O
+13	next	B-Positive
+14	time	O
+15	.	O
+
+#magnus8
+1	i	O
+2	was	B-Negative
+3	at	I-Negative
+4	dana	O
+5	yesterday	B-Negative
+6	all	I-Negative
+7	day	O
+8	,	O
+9	very	O
+10	good	O
+11	!	O
+
+#magnus9
+1	i	O
+2	have	B-Positive
+3	not	B-Negative
+4	found	O
+5	a	O
+6	better	B-Negative
+7	restaurant	I-Positive
+8	than	O
+9	here	O
+10	.	O
+
+#magnus10
+1	it	O
+2	has	O
+3	been	B-Positive
+4	well	I-Positive
+5	,	O
+6	about	O
+7	to	O
+8	go	O
+9	to	O
+10	the	O
+11	pool	O
+12	.	O
+
+#magnus11
+1	you	O
+2	can	B-Negative
+3	not	I-Negative
+4	find	O
+5	a	O
+6	resort	O
+7	where	O
+8	you	O
+9	will	O
+10	spend	O
+11	a	O
+12	better	B-Negative
+13	night	O
+14	.	O
+
+#magnus12
+1	best	B-Negative
+2	resort	O
+3	,	O
+4	we	O
+5	were	B-Positive
+6	all	I-Positive
+7	happy	I-Positive
+8	to	O
+9	stay	O
+10	here	O
+11	,	O
+12	can	O
+13	only	O
+14	recommend	B-Positive
+15	visiting	I-Positive
+16	again	O
+17	.	O
+
+#magnus13
+1	this	O
+2	is	O
+3	the	O
+4	best	B-Positive
+5	place	I-Positive
+6	ever	I-Positive
+7	if	O
+8	you	O
+9	are	O
+10	looking	O
+11	at	O
+12	it	O
+13	in	O
+14	terms	O
+15	of	O
+16	price	O
+17	.	O
+
+#magnus14
+1	the	O
+2	resort	B-Positive
+3	has	O
+4	a	O
+5	wonderful	B-Positive
+6	view	I-Positive
+7	like	I-Positive
+8	no	B-Negative
+9	other	O
+10	.	O
+
+#magnus15
+1	i	O
+2	was	O
+3	very	B-Positive
+4	happy	I-Positive
+5	to	O
+6	go	O
+7	here	O
+8	on	O
+9	a	O
+10	wonderful	B-Positive
+11	stay	O
+12	.	O
+

@@ -1,0 +1,226 @@
+#markus1
+1	impossible	B-Positive
+2	not	I-Positive
+3	to	I-Positive
+4	enjoy	I-Positive
+5	my	O
+6	stay	O
+7	.	O
+
+#markus2
+1	did	B-Positive
+2	not	I-Positive
+3	have	I-Positive
+4	far	I-Positive
+5	to	I-Positive
+6	the	I-Positive
+7	metro	I-Positive
+8	,	O
+9	but	O
+10	the	O
+11	service	B-Negative
+12	was	I-Negative
+13	not	I-Negative
+14	the	I-Negative
+15	best	I-Negative
+16	.	O
+
+#markus3
+1	the	O
+2	staff	O
+3	could	B-Positive
+4	not	I-Positive
+5	have	I-Positive
+6	been	I-Positive
+7	better	I-Positive
+8	and	O
+9	the	O
+10	hotel	B-Positive
+11	was	I-Positive
+12	not	I-Positive
+13	far	I-Positive
+14	from	I-Positive
+15	the	I-Positive
+16	centre	I-Positive
+17	.	O
+
+#markus4
+1	it	O
+2	was	O
+3	decently	B-Positive
+4	maintained	I-Positive
+5	,	O
+6	but	O
+7	noisy	B-Negative
+8	,	O
+9	because	O
+10	it	O
+11	was	O
+12	close	B-Negative
+13	to	I-Negative
+14	the	I-Negative
+15	airport	I-Negative
+16	.	O
+
+#markus5
+1	i	O
+2	did	B-Negative
+3	not	I-Negative
+4	like	I-Negative
+5	how	O
+6	there	O
+7	was	O
+8	no	B-Negative
+9	breakfast	I-Negative
+10	at	O
+11	the	O
+12	hotel	O
+13	.	O
+
+#markus6
+1	i	O
+2	could	B-Negative
+3	not	I-Negative
+4	find	I-Negative
+5	my	I-Negative
+6	way	I-Negative
+7	to	I-Negative
+8	the	I-Negative
+9	station	I-Negative
+10	.	O
+
+#markus7
+1	the	O
+2	people	O
+3	were	O
+4	friendly	B-Positive
+5	,	O
+6	but	O
+7	there	B-Negative
+8	was	I-Negative
+9	often	I-Negative
+10	no	I-Negative
+11	one	I-Negative
+12	at	I-Negative
+13	the	I-Negative
+14	reception	I-Negative
+15	.	O
+
+#markus8
+1	the	O
+2	hotel	O
+3	is	O
+4	not	B-Positive
+5	nearly	I-Positive
+6	as	I-Positive
+7	bad	I-Positive
+8	as	I-Positive
+9	people	I-Positive
+10	here	I-Positive
+11	make	I-Positive
+12	it	I-Positive
+13	out	I-Positive
+14	to	I-Positive
+15	be	I-Positive
+16	.	O
+
+#markus9
+1	area	O
+2	has	O
+3	more	B-Positive
+4	beach	I-Positive
+5	than	I-Positive
+6	you	I-Positive
+7	could	I-Positive
+8	ask	I-Positive
+9	for	I-Positive
+10	!	O
+
+#markus10
+1	immaculate	B-Positive
+2	experience	O
+3	,	O
+4	will	B-Positive
+5	undoubtedly	I-Positive
+6	be	I-Positive
+7	back	I-Positive
+8	.	O
+
+#markus11
+1	25	B-Negative
+2	euros	I-Negative
+3	for	I-Negative
+4	a	I-Negative
+5	pizza	I-Negative
+6	at	I-Negative
+7	a	I-Negative
+8	fast	I-Negative
+9	food	I-Negative
+10	place	I-Negative
+11	!	O
+12	unbelievable	B-Negative
+13	.	O
+
+#markus12
+1	the	B-Positive
+2	bus	I-Positive
+3	stop	I-Positive
+4	outside	I-Positive
+5	the	I-Positive
+6	front	I-Positive
+7	door	I-Positive
+8	goes	I-Positive
+9	right	I-Positive
+10	to	I-Positive
+11	the	I-Positive
+12	centre	I-Positive
+13	.	O
+
+#markus13
+1	our	O
+2	stay	O
+3	was	O
+4	anything	B-Negative
+5	but	I-Negative
+6	pleasant	I-Negative
+7	.	O
+8	no	B-Negative
+9	care	I-Negative
+10	for	I-Negative
+11	their	I-Negative
+12	customers	I-Negative
+13	at	O
+14	all	O
+15	.	O
+
+#markus14
+1	area	O
+2	not	B-Positive
+3	too	I-Positive
+4	crowded	I-Positive
+5	,	O
+6	but	O
+7	still	B-Positive
+8	a	I-Positive
+9	city	I-Positive
+10	feel	I-Positive
+11	.	O
+12	would	B-Positive
+13	definitely	I-Positive
+14	recommend	I-Positive
+15	.	O
+
+#markus15
+1	you	B-Negative
+2	would	I-Negative
+3	be	I-Negative
+4	hard	I-Negative
+5	pressed	I-Negative
+6	finding	I-Negative
+7	a	I-Negative
+8	worse	I-Negative
+9	place	I-Negative
+10	than	I-Negative
+11	this	I-Negative
+12	.	O
+
