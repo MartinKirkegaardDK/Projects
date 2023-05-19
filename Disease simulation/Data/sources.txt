@@ -1,0 +1,14 @@
+Airports.csv
+https://data-usdot.opendata.arcgis.com/search?collection=Dataset&q=airports
+
+Main dataset
+T_T100D_SEGMENT_US_CARRIER_ONLY_2013_All.csv
+
+us-airports.csv
+https://data.humdata.org/dataset/ourairports-usa
+
+This is used to scrape some coordinates
+https://www.myskymap.com/airport/details/
+https://www.airnav.com/airport/KBVU
+wikipedia
+
