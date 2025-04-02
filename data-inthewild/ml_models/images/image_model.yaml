@@ -1,0 +1,17 @@
+BATCH_SIZE : 96 # Big enough to measure an F1-score
+SHUFFLE_BUFFER_SIZE : 4000 #Larger than the dataset to ensure complete shuffling
+LR : "1e-5" # Keep it small when transfer learning
+EPOCHS : 25
+
+
+LAYER1: 512
+LAYER1_DROPOUT: 0.2
+LAYER1_ACTIVATION: "relu"
+
+LAYER2: 512
+LAYER2_DROPOUT: 0.2
+LAYER2_ACTIVATION: "relu"
+
+OUTPUTLAYER_ACTIVATION: "sigmoid"
+LOSS_FUNCTION: "macro_soft_f1"
+METRICS: "macro_f1"
